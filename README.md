@@ -11,6 +11,5 @@
   <b>GitHub</b><br><br>
 
 <a href="hy2ji.k5@gmail.com">
-  <img src="https://play-lh.googleusercontent.com/0zNZ_2F9UgHUCc9UWnrP1ARHHA4a4l0KkR8F8CkdKOs2oXdlO1qeTdaFaNSGQDIc1b8" style="width: 30px;"></a>&nbsp;
+  <img src="https://github.com/Ko-HyeJi/Ko-HyeJi/assets/88470545/bb3fed72-2d14-4ace-a5db-4d5d6bc358d5" style="width: 30px;"></a>&nbsp;
   <b>Mail</b><br><br>
-  
